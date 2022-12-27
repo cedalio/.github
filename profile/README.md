@@ -18,8 +18,8 @@
 <br/>
 
 ## Welcome to Cedalio!
-Cedalio is a platform for web3 developers building dApps with an amazing developer experience. 
+Bifrost is a <strong>Decentralized Storage GraphQL Gateway</strong>, you can use Bifrost as a decentralized database for applications that speak GraphQL. 
 
-The core tech consists of a decentralized storage solution with a GraphQL API. The Alpha release will offer on-chain storage on EVM compatible chains and IPFS. 
+Bifrost is designed in such a way that allows end-users to <strong>own and control their data</strong>. Also helps developers focus on <strong>building applications and avoid having to worry about managing infrastructure, building a backend, write smart-contracts or write GraphQL resolvers</strong>. 
 
-Developers will be able to just define the data schemas, without having to worry about storage management, smart contract coding or managing their own infrastructure.
+As a developer <strong>allyou need to do is define your data model using GraphQL Schema</strong> Definition Language and that's it! To learn more about how our technology works read our Solution blueprint and Building blocks.
