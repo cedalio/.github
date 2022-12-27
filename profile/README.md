@@ -1,13 +1,11 @@
 <p align="center">
-  <a href="https://cedalio.com">
+<a href="https://cedalio.com">
     <img src="https://cedalio.com/images/logo.svg" height="100">
-  </a>
+</a>
 </p>
-
 <p align="center">
   GraphQL backend for serverless decentralized apps.
 </p>
-
 <p align="center">
   <a href="https://docs.cedalio.com/"><strong>Quickstart</strong></a> ·
   <a href="https://docs.cedalio.com/use-cases/dao-use-case"><strong>Use Cases</strong></a> ·
@@ -17,11 +15,10 @@
   <a href="https://discord.gg/kSdhmb9UUT"><strong>Community</strong></a> ·
   <a href="https://docs.cedalio.com/technology/release-notes"><strong>Release Notes</strong></a>
 </p>
-
 <br/>
 
 ## Welcome to Cedalio!
-
+<h1></h1>
 Cedalio is a platform for web3 developers building dApps with an amazing developer experience. 
 
 The core tech consists of a decentralized storage solution with a GraphQL API. The Alpha release will offer on-chain storage on EVM compatible chains and IPFS. 
