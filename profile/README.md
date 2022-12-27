@@ -18,7 +18,6 @@
 <br/>
 
 ## Welcome to Cedalio!
-<h1></h1>
 Cedalio is a platform for web3 developers building dApps with an amazing developer experience. 
 
 The core tech consists of a decentralized storage solution with a GraphQL API. The Alpha release will offer on-chain storage on EVM compatible chains and IPFS. 
