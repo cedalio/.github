@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://cedalio.com">
-    <img src="https://cedalio.com/images/logo-iso.svg" height="160">
-    <h3 align="center">Cedalio</h3>
+    <img src="https://cedalio.com/images/logo.svg" height="160">
   </a>
 </p>
 
