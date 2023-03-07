@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cedalio.com">
-    <img src="https://cedalio.com/images/cedalio.svg" height="96">
+    <img src="https://cedalio-static-content.s3.amazonaws.com/cedalio-logo.svg" height="96">
     <h3 align="center">Cedalio</h3>
   </a>
 </p>
