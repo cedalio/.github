@@ -7,11 +7,11 @@
   GraphQL backend for serverless decentralized apps.
 </p>
 <p align="center">
-  <a href="https://docs.cedalio.com/"><strong>Quickstart</strong></a> ·
-  <a href="https://docs.cedalio.com/use-cases/dao-use-case"><strong>Use Cases</strong></a> ·
+  <a href="https://docs.cedalio.com/introduction/getting-started"><strong>Quickstart</strong></a> ·
+  <a href="https://cedalio.com/examples.html"><strong>Examples</strong></a> ·
   <a href="https://cedalio.com/on-boarding.html?email=guest@github.com"><strong>Templates</strong></a> ·
   <a href="https://docs.cedalio.com/"><strong>Docs</strong></a> ·
-  <a href="https://docs.cedalio.com/bifrost-cli-commands"><strong>CLI</strong></a> ·
+  <a href="https://docs.cedalio.com/introduction/getting-started/download-the-cli"><strong>CLI</strong></a> ·
   <a href="https://discord.gg/kSdhmb9UUT"><strong>Community</strong></a> ·
   <a href="https://docs.cedalio.com/technology/release-notes"><strong>Release Notes</strong></a>
 </p>
