@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://cedalio.com">
-    <img src="https://cedalio.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9a99bc27-72eb-4790-8eae-84a1ce2710f6%2FCedalio_Iso_-_Rounded.png?id=0525abd7-acfb-4621-9d98-d706c5cc47cb&table=block&spaceId=709e6015-171d-448c-87e0-279a60f5c6c8&width=800&userId=&cache=v2" height="100">
+    <img src="https://cedalio-static-content.s3.amazonaws.com/Cedalio+Iso+-+Rounded.png" height="100">
 </a>
 </p>
 <p align="center">
